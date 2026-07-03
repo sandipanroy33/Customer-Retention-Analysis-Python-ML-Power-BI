@@ -169,7 +169,7 @@ Power BI Dashboard shows:
 - Service Add-on Impact on Retention
 - High-Risk Customer Segments
 
-![Customer Retention Dashboard](C:\Users\sandi\Projects\Customer Retention Analysis\images\Customer Retention-EXECUTIVE SUMMARY-Dashboard.png)
+![Customer Retention Dashboard](images/dashboard_home.png)
 
 ---
 
@@ -223,6 +223,11 @@ python scripts/feature_engineering.py
 ## Author & Contact
 
 **Sandipan Roy**
+<br>
 Data Analyst
-🔗 [linkedin.com/in/SandipanRoy19](#)
+<br>
+📧 Email: [sandipanroy33@gmail.com](sandipanroy33@gmail.com)
+<br>
+🔗 [LinkedIn](https://linkedin.com/in/SandipanRoy19)
+<br>
 🔗 [Portfolio](#)
