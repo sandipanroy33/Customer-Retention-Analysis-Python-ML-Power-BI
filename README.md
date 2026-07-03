@@ -1,3 +1,4 @@
+
 # 📊 Customer Retention Analysis – Telecom Churn Prediction
 
 _Analyzing customer behavior and churn drivers to support retention strategy and predictive decision-making using Python, Machine Learning, and Power BI._
@@ -154,7 +155,7 @@ Customer-Retention-Analysis/
   - Service Add-on Impact on Retention
   - High-Risk Customer Segments
 
-![Customer Retention Dashboard](images/dashboard_home.png)
+![Customer Retention Dashboard](images/Customer Retention-EXECUTIVE SUMMARY-Dasboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -197,8 +198,8 @@ python scripts/feature_engineering.py
 
 **Sandipan Roy**  
 Data Analyst  
-🔗 [LinkedIn](#)  
+🔗 [linkedin.com/in/SandipanRoy19](#)  
 🔗 [Portfolio](#)
-#   C u s t o m e r - R e t e n t i o n - A n a l y s i s - P y t h o n - M L - P o w e r - B I  
- #   C u s t o m e r - R e t e n t i o n - A n a l y s i s - P y t h o n - M L - P o w e r - B I  
+#   C u s t o m e r - R e t e n t i o n - A n a l y s i s - P y t h o n - M L - P o w e r - B I 
  
+ #   C u s t o m e r - R e t e n t i o n - A n a l y s i s - P y t h o n - M L - P o w e r - B I 
